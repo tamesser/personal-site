@@ -13,8 +13,8 @@ export default function Footer() {
             <ThemePortrait width={80} height={80} />
           </Link>
           <div className="footer-info">
-            <h3>Michael D&apos;Angelo</h3>
-            <p className="footer-role">CTO & Co-founder</p>
+            <h3>Tim Messer</h3>
+            <p className="footer-role">Civic-minded IT professional</p>
             <p className="footer-copyright">
               &copy; {new Date().getFullYear()} ·{' '}
               <a
